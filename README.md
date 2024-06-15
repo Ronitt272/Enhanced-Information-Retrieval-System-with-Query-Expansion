@@ -8,6 +8,7 @@ Yueran Ma (UNI: ym2876)
 
 # How to run the program ?
 
+'''sh
 python3 feedback.py <google api key> <google engine id> <precision> <query>
 
 # Internal Working
