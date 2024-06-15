@@ -22,7 +22,8 @@ For each of the 10 results, we save a bag of words for all the relevant and non-
 # Method for Query Expansion
 
 We have implemented Rocchio's Algorithm. the algorithm is as follows:
-latex equation.....
+
+$Q' = alpha*Q + \frac{beta}{|D_r|}*(\sum_{d_j \in D_r} d_j) - \frac{gamma}{|D_{nr}|}*(\sum_{d_j \in D_{nr}} d_j)$
 
 Where, 
 
