@@ -23,9 +23,7 @@ For each of the 10 results, we save a bag of words for all the relevant and non-
 
 We have implemented Rocchio's Algorithm. the algorithm is as follows:
 
-$$
-Q' = alpha*Q + \frac{beta}{|D_r|}*(\sum_{d_j \in D_r} d_j) - \frac{gamma}{|D_{nr}|}*(\sum_{d_j \in D_{nr}} d_j)
-$$
+![Rocchio's Algorithm equation](https://latex.codecogs.com/svg.image?Q'=alpha*Q&plus;\frac{beta}{|D_r|}*\left(\sum_{d_j\in&space;D_r}d_j\right)-\frac{gamma}{|D_{nr}|}*\left(\sum_{d_j\in&space;D_{nr}}d_j\right))
 
 Where, 
 
