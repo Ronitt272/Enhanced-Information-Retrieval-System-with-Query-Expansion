@@ -8,8 +8,7 @@ Yueran Ma (UNI: ym2876)
 
 # How to run the program ?
 
-'''sh
-python3 feedback.py <google api key> <google engine id> <precision> <query>
+`python3 feedback.py <google api key> <google engine id> <precision> <query>`
 
 # Internal Working
 The code calls the get_query() function in the main() function. get_query() essentially collects the API_KEY, ENGINE_ID, desired precision, and the initial query as command line arguments. Furhtermore, it checks whether all the arguments have been provided. For easier testing and execution, get_query() allows the user to only input the desired precision and the initial query, if the user has saved the API_KEY and the ENGINE_ID as environmental variables.
