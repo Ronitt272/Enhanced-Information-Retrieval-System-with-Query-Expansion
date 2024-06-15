@@ -25,10 +25,15 @@ We have implemented Rocchio's Algorithm. the algorithm is as follows:
 latex equation.....
 
 Where, 
+
 Q’ = new query vector
+
 Q = original query vector
+
 $𝐷_𝑟$ = set of all relevant documents
+
 $𝐷_{𝑛𝑟}$ = set of all non-relevant documents
+
 alpha, beta, gamma = Rocchio Algorithm parameters
 
 The expand_query() function implements the Rocchio's Algorithm.
