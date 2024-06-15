@@ -1,0 +1,575 @@
+(dbproj) user@cs6111-instance:~/cs6111-project1$ python3 feedback.py 0.9 "per se"
+Parameters:
+Client key  = AIzaSyDG40Sow4mvOr1uKxx6kygmp-mqb6bhFu8
+Engine key  = 257df0a8fe2bd4997
+Query       = per se
+Precision   = 0.9
+
+Google Search Results:
+=======================
+Result 1
+[
+  URL: https://www.thomaskeller.com/perseny
+  Title: Per Se | Thomas Keller Restaurant Group
+  Summary: Per Se. Per Se Front Door. center. About. About; Restaurant · Team · Info & Directions · Gift Experiences · Reservations; Menus & Stories. Menus & Stories
+]
+
+Relevant (Y/N)? Y
+Result 2
+[
+  URL: https://www.merriam-webster.com/dictionary/perse
+  Title: Perse Definition & Meaning - Merriam-Webster
+  Summary: The meaning of PERSE is of a dark grayish blue resembling indigo. How to use perse in a sentence. Did you know?
+]
+
+Relevant (Y/N)? N
+Result 3
+[
+  URL: https://www.exploretock.com/perse
+  Title: Per Se - New York, NY | Tock
+  Summary: Opened in 2004, Per Se is Thomas Keller's acclaimed interpretation of The French Laundry in the Deutsche Bank Center at Columbus Circle.
+]
+
+Relevant (Y/N)? Y
+Result 4
+[
+  URL: https://guide.michelin.com/us/en/new-york-state/new-york/.../per-se
+  Title: Per Se – New York - a MICHELIN Guide Restaurant
+  Summary: Per Se – a Three Stars: Exceptional cuisine restaurant in the 2023 MICHELIN Guide USA. The MICHELIN inspectors' point of view, information on prices, ...
+]
+
+Relevant (Y/N)? Y
+Result 5
+[
+  URL: https://www.instagram.com/perseny/
+  Title: Per Se (@perseny) • Instagram photos and videos
+  Summary: 269K Followers, 199 Following, 938 Posts - See Instagram photos and videos from Per Se (@perseny)
+]
+
+Relevant (Y/N)? Y
+Result 6
+[
+  URL: https://en.wikipedia.org/wiki/wikt:per_se
+  Title: per se - Wiktionary, the free dictionary
+  Summary: From Latin per sē (“by itself”), from per (“by, through”) and sē (“itself, himself, herself, themselves”).
+]
+
+Relevant (Y/N)? N
+Result 7
+[
+  URL: https://dictionary.cambridge.org/us/dictionary/english/per-se
+  Title: PER SE | definition in the Cambridge English Dictionary
+  Summary: PER SE meaning: 1. by or of itself: 2. by or of itself: 3. by or of itself: . Learn more.
+]
+
+Relevant (Y/N)? N
+Result 8
+[
+  URL: https://en.wikipedia.org/wiki/Per_Se_(restaurant)
+  Title: Per Se (restaurant) - Wikipedia
+  Summary: Per Se (restaurant) ... Per Se is a New American and French restaurant located at The Shops at Columbus Circle, on the fourth floor of the Deutsche Bank Center at ...
+]
+
+Relevant (Y/N)? Y
+Result 9
+[
+  URL: https://www.law.cornell.edu/wex/per_se
+  Title: per se | Wex | US Law | LII / Legal Information Institute
+  Summary: Primary tabs. Latin for “by itself,” in other words, inherently. For example, in tort law, a statutory violation is negligence per se. One of the elements a ...
+]
+
+Relevant (Y/N)? N
+Result 10
+[
+  URL: https://www.jamesperse.com/
+  Title: James Perse Los Angeles
+  Summary: James Perse. Women. Women; Apparel. Apparel Main Menu; New Arrivals · At Home Essentials · Classics · Dresses/Jumpsuits · Sweaters/Cashmere · T-shirts.
+]
+
+Relevant (Y/N)? N
+
+FEEDBACK SUMMARY
+=======================
+Query: per se
+Precision: 0.5
+Still below the desired precision of 0.9
+Indexing results ....
+Augmenting query to: per se restaurant center
+Parameters:
+Client key  = AIzaSyDG40Sow4mvOr1uKxx6kygmp-mqb6bhFu8
+Engine key  = 257df0a8fe2bd4997
+Query       = per se
+Precision   = 0.9
+
+Google Search Results:
+=======================
+Result 1
+[
+  URL: https://www.thomaskeller.com/perseny
+  Title: Per Se | Thomas Keller Restaurant Group
+  Summary: Private Dining & Events · Per Se. Per Se Front Door. center. About. About; Restaurant · Team · Info & Directions · Gift Experiences · Reservations; Menus & ...
+]
+
+Relevant (Y/N)? Y
+Result 2
+[
+  URL: https://en.wikipedia.org/wiki/Per_Se_(restaurant)
+  Title: Per Se (restaurant) - Wikipedia
+  Summary: Per Se is a New American and French restaurant located at The Shops at Columbus Circle, on the fourth floor of the Deutsche Bank Center at 10 Columbus ...
+]
+
+Relevant (Y/N)? Y
+Result 3
+[
+  URL: https://www.thomaskeller.com/new-york-new-york/per-se/restaurant
+  Title: Opened in 2004, Per Se is Thomas Keller's acclaimed New York ...
+  Summary: Restaurant Opened in 2004, Per Se is Thomas Keller's acclaimed New York interpretation of The French Laundry in the Deutsche Bank Center at Columbus Circle.
+]
+
+Relevant (Y/N)? Y
+Result 4
+[
+  URL: https://www.tripadvisor.com/Restaurant_Review-g60763-d425628-Reviews...
+  Title: PER SE, New York City - Hell's Kitchen - Menu, Prices & Restaurant ...
+  Summary: Per Se, New York City: See 1875 unbiased reviews of Per Se, rated 4.5 of 5 on Tripadvisor and ranked #85 of 13133 restaurants in New York City.
+]
+
+Relevant (Y/N)? Y
+Result 5
+[
+  URL: https://www.exploretock.com/perse
+  Title: Per Se - New York, NY | Tock
+  Summary: ... restaurant is Chef Keller's second three-Michelin-starred property featuring ... Center at Columbus Circle. Designed by Adam D. Tihany, Per Se features a ...
+]
+
+Relevant (Y/N)? Y
+Result 6
+[
+  URL: https://www.nytimes.com/2011/10/12/.../per-se-nyc-restaurant-review.html
+  Title: Per Se — NYC — Restaurant Review - The New York Times
+  Summary: Oct 11, 2011 ... Per Se, in the Time Warner Center, is the best restaurant in New York City.
+]
+
+Relevant (Y/N)? Y
+Result 7
+[
+  URL: https://www.instagram.com/perseny/
+  Title: Per Se (@perseny) • Instagram photos and videos
+  Summary: 269K Followers, 199 Following, 938 Posts - See Instagram photos and videos from Per Se (@perseny)
+]
+
+Relevant (Y/N)? Y
+Result 8
+[
+  URL: https://www.nytimes.com/2004/.../the-magic-of-napa-with-urban-polish.ht...
+  Title: The Magic of Napa With Urban Polish - The New York Times
+  Summary: Sep 8, 2004 ... Frank Bruni reviews Per Se, Thomas Keller's restaurant at Time Warner Center; photos (L)
+]
+
+Relevant (Y/N)? Y
+Result 9
+[
+  URL: https://ny.eater.com/2021/7/21/.../per-se-masa-raise-tasting-menu-prices-80...
+  Title: Per Se and Masa Both Raise Prices of Tasting Menu to $800 - Eater ...
+  Summary: Jul 21, 2021 ... New tasting menu options at NYC restaurants Masa and Per Se could easily push the price of dinner for two past $2000. ... Center. That building is ...
+]
+
+Relevant (Y/N)? Y
+Result 10
+[
+  URL: https://dinersjournal.blogs.nytimes.com/.../jonathan-benno-leaving-per-se-f...
+  Title: Jonathan Benno Leaving Per Se For New Lincoln Center Restaurant
+  Summary: Sep 11, 2009 ... Jonathan Benno, the chef de cuisine at Per Se, will leave to become executive chef of The Patina Group's new restaurant in Lincoln Center, ...
+]
+
+Relevant (Y/N)? Y
+
+FEEDBACK SUMMARY
+=======================
+Query: per se restaurant center
+Precision: 1.0
+Target precision reached!
+
+(dbproj) user@cs6111-instance:~/cs6111-project1$ python3 feedback.py 0.9 wojcicki
+Parameters:
+Client key  = AIzaSyDG40Sow4mvOr1uKxx6kygmp-mqb6bhFu8
+Engine key  = 257df0a8fe2bd4997
+Query       = wojcicki
+Precision   = 0.9
+
+Google Search Results:
+=======================
+Result 1
+[
+  URL: https://en.wikipedia.org/wiki/Susan_Wojcicki
+  Title: Susan Wojcicki - Wikipedia
+  Summary: Susan Wojcicki ... Susan Diane Wojcicki (/wʊˈtʃɪtski/ woo-CHITS-kee; born July 5, 1968) is an American business executive who was the chief executive officer (CEO) ...
+]
+
+Relevant (Y/N)? N
+Result 2
+[
+  URL: https://www.instagram.com/susanwojcicki/?hl=en
+  Title: Susan Wojcicki (@susanwojcicki) • Instagram photos and videos
+  Summary: 55K Followers, 124 Following, 40 Posts - See Instagram photos and videos from Susan Wojcicki (@susanwojcicki)
+]
+
+Relevant (Y/N)? N
+Result 3
+[
+  URL: https://www.facebook.com/esther.wojcicki/
+  Title: Esther Wojcicki
+  Summary: Psi and was thriving academically. At home, he would tell us endless stories of his life and friends at Berkeley. Marco's life was cut too short. And we are all
+]
+
+Relevant (Y/N)? N
+Result 4
+[
+  URL: https://twitter.com/susanwojcicki?lang=en
+  Title: Susan Wojcicki (@SusanWojcicki) / X
+  Summary: Susan Wojcicki's posts ... 's team and innovative solutions in sustainability and security to enable transparency and accountability for countries, communities ...
+]
+
+Relevant (Y/N)? N
+Result 5
+[
+  URL: https://www.instagram.com/heywoj/?hl=en
+  Title: Esther Wojcicki (@heywoj) • Instagram photos and videos
+  Summary: 7628 Followers, 1578 Following, 1870 Posts - See Instagram photos and videos from Esther Wojcicki (@heywoj)
+]
+
+Relevant (Y/N)? N
+Result 6
+[
+  URL: https://twitter.com/annewoj23?lang=en
+  Title: Anne Wojcicki (@annewoj23) / X
+  Summary: CEO and Co-Founder, 23andMe.
+]
+
+Relevant (Y/N)? Y
+Result 7
+[
+  URL: https://www.linkedin.com/in/susan-wojcicki-b136a99
+  Title: Susan Wojcicki - YouTube | LinkedIn
+  Summary: View Susan Wojcicki's profile on LinkedIn, the world's largest professional community. Susan has 2 jobs listed on their profile. See the complete profile on ...
+]
+
+Relevant (Y/N)? N
+Result 8
+[
+  URL: https://people.com/son-of-susan-wojcicki-found-dead-at-uc-berkeley-8584...
+  Title: Son of Former YouTube CEO Susan Wojcicki Found Dead at UC ...
+  Summary: 6 hours ago ... Marco Troper, a UC Berkeley student who was the 19-year-old son of former YouTube CEO Susan Wojcicki, was found dead on his college campus ...
+]
+
+Relevant (Y/N)? N
+Result 9
+[
+  URL: https://www.linkedin.com/in/ed-wojcicki-bb02abb
+  Title: Ed Wojcicki - Retired... but Consulting and Writing - Retired | LinkedIn
+  Summary: Author/co-author of three books, freelance writer and editor, author of a wide range of articles on topics ranging from Illinois government to Henri Nouwen to ...
+]
+
+Relevant (Y/N)? N
+Result 10
+[
+  URL: https://www.forbes.com/profile/susan-wojcicki/
+  Title: Susan Wojcicki
+  Summary: 32 Susan Wojcicki on the 2023 America's Self-Made Women - Susan Wojcicki was CEO of Alphabet subsidiary YouTube from 2014 until February 2023. She now.
+]
+
+Relevant (Y/N)? N
+
+FEEDBACK SUMMARY
+=======================
+Query: wojcicki
+Precision: 0.1
+Still below the desired precision of 0.9
+Indexing results ....
+Augmenting query to: wojcicki anne annewoj23
+Parameters:
+Client key  = AIzaSyDG40Sow4mvOr1uKxx6kygmp-mqb6bhFu8
+Engine key  = 257df0a8fe2bd4997
+Query       = wojcicki
+Precision   = 0.9
+
+Google Search Results:
+=======================
+Result 1
+[
+  URL: https://www.instagram.com/annewoj23/?hl=en
+  Title: Anne Wojcicki (@annewoj23) • Instagram photos and videos
+  Summary: 12K Followers, 209 Following, 79 Posts - See Instagram photos and videos from Anne Wojcicki (@annewoj23)
+]
+
+Relevant (Y/N)? Y
+Result 2
+[
+  URL: https://twitter.com/annewoj23?lang=en
+  Title: Anne Wojcicki (@annewoj23) / X
+  Summary: CEO and Co-Founder, 23andMe.
+]
+
+Relevant (Y/N)? Y
+Result 3
+[
+  URL: https://mobile.twitter.com/annewoj23/status/1432923671291518980
+  Title: Anne Wojcicki on X: "Excite to join the board of Zipline! They are ...
+  Summary: Aug 31, 2021 ... We're thrilled to welcome healthcare pioneer Anne Wojcicki (@annewoj23) to Zipline's board of directors. ... https ...
+]
+
+Relevant (Y/N)? Y
+Result 4
+[
+  URL: https://twitter.com/CoherenceMed/status/1189337742091653123
+  Title: Janae Sharp on X: "Babies! Anne Wojcicki @annewoj23 and I got to ...
+  Summary: Oct 30, 2019 ... Babies! Anne Wojcicki @annewoj23 and I got to chat about bringing babies to events. I'm glad leaders like her are ...
+]
+
+Relevant (Y/N)? Y
+Result 5
+[
+  URL: https://www.siliconvalley.com/.../dying-friend-of-anne-wojcicki-gets-help-f...
+  Title: Dying friend of Anne Wojcicki gets help — after the 23andMe ...
+  Summary: Apr 5, 2018 ... Why do we all tolerate not having access to our own information? — Anne Wojcicki (@annewoj23) April 3, 2018. Yet before ...
+]
+
+Relevant (Y/N)? Y
+Result 6
+[
+  URL: https://twitter.com/annewoj23/status/1626326266214506496?lang=en
+  Title: Anne Wojcicki on X: "Susan has been my inspiration and mentor ...
+  Summary: Feb 16, 2023 ... Anne Wojcicki · @annewoj23. Susan has been my inspiration and mentor since I was born. She is not only my sister but ...
+]
+
+Relevant (Y/N)? Y
+Result 7
+[
+  URL: https://www.firstinlinepod.com/the-future-of-personalized-wellness-with-an...
+  Title: The Future of Personalized Wellness with Anne Wojcicki and Dr ...
+  Summary: Oct 27, 2022 ... Where to Find Anne Wojcicki: • Twitter: https://twitter.com/annewoj23. • Instagram: https://www.instagram.com/annewoj23.
+]
+
+Relevant (Y/N)? Y
+Result 8
+[
+  URL: https://twitter.com/annewoj23/status/1009913951889473536
+  Title: Anne Wojcicki on X: "We've heard from many of our customers that ...
+  Summary: Jun 21, 2018 ... Anne Wojcicki · @annewoj23. We've heard from many of our customers that they would like to see 23andMe help reunite ...
+]
+
+Relevant (Y/N)? Y
+Result 9
+[
+  URL: https://www.thefounderhour.com/episodes/anne-wojcicki-23andme
+  Title: Anne Wojcicki: 23andMe — The Founder Hour | Podcast
+  Summary: May 23, 2023 ... Anne Wojcicki is an innovative biologist and the co-founder and CEO of personal genomics company 23andMe.
+]
+
+Relevant (Y/N)? Y
+Result 10
+[
+  URL: https://www.businessinsider.com/23andme-ceo-anne-wojcicki-life-career-fa...
+  Title: 23andMe CEO Anne Wojcicki: the Ex-Wife of Sergey Brin's Life and ...
+  Summary: Feb 18, 2023 ... Anne Wojcicki is the sister of former YouTube CEO Susan Wojcicki. Here's a look back at how she got her start and ...
+]
+
+Relevant (Y/N)? Y
+
+FEEDBACK SUMMARY
+=======================
+Query: wojcicki anne annewoj23
+Precision: 1.0
+Target precision reached!
+
+(dbproj) user@cs6111-instance:~/cs6111-project1$ python3 feedback.py 0.9 cases
+Parameters:
+Client key  = AIzaSyDG40Sow4mvOr1uKxx6kygmp-mqb6bhFu8
+Engine key  = 257df0a8fe2bd4997
+Query       = cases
+Precision   = 0.9
+
+Google Search Results:
+=======================
+Result 1
+[
+  URL: https://www.cases.org/
+  Title: CASES: Home
+  Summary: From court and program offices in the Bronx, Brooklyn, and Manhattan, CASES provides community-based alternatives to jail and prison. These programs address ...
+]
+
+Relevant (Y/N)? N
+Result 2
+[
+  URL: https://www.icc-cpi.int/cases
+  Title: cases | International Criminal Court
+  Summary: Banda. At large. Case also involved Saleh Mohammed Jerbo Jamus but proceedings against him were terminated on 4 October 2013 following his passing. On 7 March ...
+]
+
+Relevant (Y/N)? N
+Result 3
+[
+  URL: https://www.worldometers.info/coronavirus/
+  Title: COVID - Coronavirus Statistics - Worldometer
+  Summary: Daily and weekly updated statistics tracking the number of COVID-19 cases, recovered, and deaths. Historical data with cumulative charts, graphs, ...
+]
+
+Relevant (Y/N)? Y
+Result 4
+[
+  URL: https://www.casetify.com/
+  Title: CASETiFY: Show Your Colors
+  Summary: CASETiFY - We make the most sustainable yet protective phone cases for iPhone 15 / iPhone 15 Pro / iPhone 15 Plus / iPhone 15 Pro Max and tech accessories.
+]
+
+Relevant (Y/N)? N
+Result 5
+[
+  URL: https://acis.eoir.justice.gov/
+  Title: Automated Case Information
+  Summary: EOIR Automated Case Information ... Please check https://www.justice.gov/eoir-operational-status for up to date closures. ... Welcome to the Automated Case ...
+]
+
+Relevant (Y/N)? N
+Result 6
+[
+  URL: https://www.oyez.org/cases
+  Title: 2023-2024 Term | Oyez
+  Summary: US Supreme Court cases from the 2023-2024 term.
+]
+
+Relevant (Y/N)? N
+Result 7
+[
+  URL: https://casesearch.courts.state.md.us/
+  Title: Maryland Judiciary Case Search
+  Summary: Confidential records and information will not be returned in your search results. The information displayed on this Web Site is generated from computerized ...
+]
+
+Relevant (Y/N)? N
+Result 8
+[
+  URL: https://pacer.uscourts.gov/
+  Title: Public Access to Court Electronic Records | PACER: Federal Court ...
+  Summary: Search for a case in the federal court where the case was filed, or; Search a nationwide index of federal court cases. The PACER Service Center can assist you ...
+]
+
+Relevant (Y/N)? N
+Result 9
+[
+  URL: https://www.cdc.gov/measles/cases-outbreaks.html
+  Title: Measles Cases and Outbreaks | CDC
+  Summary: Measles cases in 2019 · From January 1 to December 31, 2019, 1,274* individual cases of measles were confirmed in 31 states. · This is the greatest number of ...
+]
+
+Relevant (Y/N)? N
+Result 10
+[
+  URL: https://www.icj-cij.org/cases
+  Title: Cases | INTERNATIONAL COURT OF JUSTICE
+  Summary: Main navigation ... The Court has a twofold role: to settle, in accordance with international law, legal disputes submitted to it by States (contentious cases) ...
+]
+
+Relevant (Y/N)? N
+
+FEEDBACK SUMMARY
+=======================
+Query: cases
+Precision: 0.1
+Still below the desired precision of 0.9
+Indexing results ....
+Augmenting query to: cases statistics covid
+Parameters:
+Client key  = AIzaSyDG40Sow4mvOr1uKxx6kygmp-mqb6bhFu8
+Engine key  = 257df0a8fe2bd4997
+Query       = cases
+Precision   = 0.9
+
+Google Search Results:
+=======================
+Result 1
+[
+  URL: https://covid.cdc.gov/
+  Title: CDC COVID Data Tracker: Home
+  Summary: CDC's home for COVID-19 data. Visualizations, graphs, and data in one easy-to-use website.
+]
+
+Relevant (Y/N)? Y
+Result 2
+[
+  URL: https://www.worldometers.info/coronavirus/
+  Title: COVID - Coronavirus Statistics - Worldometer
+  Summary: Coronavirus Cases: 703,435,892. view by country. Deaths: 6,984,286. Recovered: 674,192,283. Active Cases. 22,259,323. Currently Infected Patients. 22,223,577 ( ...
+]
+
+Relevant (Y/N)? Y
+Result 3
+[
+  URL: https://www.nyc.gov/site/doh/covid/covid-19-data.page
+  Title: COVID-19: Latest Data - NYC Health
+  Summary: Cases, Hospitalizations and Deaths. The data below show daily numbers of cases, hospitalizations and deaths over the past three months. Due to delays in ...
+]
+
+Relevant (Y/N)? Y
+Result 4
+[
+  URL: https://covid19.who.int/
+  Title: WHO COVID-19 dashboard: COVID-19 cases
+  Summary: The latest data for coronavirus (COVID-19) cases from the WHO COVID-19 dashboard.
+]
+
+Relevant (Y/N)? Y
+Result 5
+[
+  URL: https://coronavirus.jhu.edu/map.html
+  Title: COVID-19 Map - Johns Hopkins Coronavirus Resource Center
+  Summary: Coronavirus COVID-19 Global Cases by the Center for Systems Science and ... JHU has stopped collecting data as of. 03 / 10 / 2023. Show More. After three years of ...
+]
+
+Relevant (Y/N)? Y
+Result 6
+[
+  URL: http://publichealth.lacounty.gov/media/coronavirus/data/
+  Title: LA County Daily COVID-19 Data - LA County Department of Public ...
+  Summary: Updated once per week on Thursdays. Overview Graphs. Overview Table. Cases/Deaths. TK-12 Schools.
+]
+
+Relevant (Y/N)? Y
+Result 7
+[
+  URL: https://www.mass.gov/info-details/covid-19-reporting
+  Title: COVID-19 Reporting | Mass.gov
+  Summary: The COVID-19 Dashboard includes data on city/town COVID-19 activity, confirmed and probable cases of COVID-19, confirmed and probable deaths related to ...
+]
+
+Relevant (Y/N)? Y
+Result 8
+[
+  URL: https://www.vdh.virginia.gov/coronavirus/see-the.../covid-19-in-virginia/
+  Title: COVID-19 Data In Virginia - Coronavirus
+  Summary: COVID-19 in Virginia (past 6 months). Case Data Demographics. Demographic data is an important indicator used to understand ...
+]
+
+Relevant (Y/N)? Y
+Result 9
+[
+  URL: https://www.health.pa.gov/topics/disease/coronavirus/pages/cases.aspx
+  Title: COVID-19 Data for Pennsylvania
+  Summary: ... COVID-19 case data is no longer required to be reported to the Department of Health, making the case data less relevant for disease tracking purposes.
+]
+
+Relevant (Y/N)? Y
+Result 10
+[
+  URL: https://www.azdhs.gov/covid19/data/index.php
+  Title: COVID-19 Surveillance data dashboard
+  Summary: COVID-19 Deaths; Cases by Zip Code; COVID-19 Cases by Week; Hospitalization; Hospital COVID-like & Influenza-like illness Surveillance; Laboratory Testing ...
+]
+
+Relevant (Y/N)? Y
+
+FEEDBACK SUMMARY
+=======================
+Query: cases statistics covid
+Precision: 1.0
+Target precision reached!
