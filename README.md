@@ -40,7 +40,3 @@ To implement the Rocchio's algorithm, the beta coefficient is multiplied by the 
 After adjusting the query vector with Rocchio's Algorithm, the new query vector contains terms from both the original query as well as the terms from the relevant documents. After finding out the words that have been added to the query vector, we prioritize the words with more relevance. This is done by sorting the new terms by weight in decreasing order.
 Then, the first two terms (most relevant ones) in this sorted list of terms are appended to the query to finally expand the original query. We also make sure that we do not add more than two terms to the query.
 
-API_KEY=AIzaSyDG40Sow4mvOr1uKxx6kygmp-mqb6bhFu8 <br>
-ENGINE_ID=257df0a8fe2bd4997
-
-
